@@ -1,0 +1,15 @@
+h1,h2{
+    color: blueviolet;
+}
+.box > p{
+    color:RED;
+}
+.box li{
+    color: blueviolet;
+}
+li.done{
+    color:green;
+}
+ul p.done{
+    color:chartreuse;
+} 
